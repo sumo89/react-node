@@ -1,4 +1,2 @@
-# react-node
-
-npm start in /client and /api
-http://localhost:9091/metrics for promethium metrics
+run `npm start` in both /client and /api
+go to http://localhost:3000/
