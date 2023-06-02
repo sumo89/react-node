@@ -1,0 +1,9 @@
+.metrics-wrap {
+  grid-area: 1 / 2 / 3 / 4;
+  background-color: lightgoldenrodyellow;
+  position: relative;
+  padding: 2em;
+}
+.metrics-wrap .loader-wrap {
+  background-color: darkcyan;
+}

@@ -1,0 +1,9 @@
+.timer-wrap {
+  grid-area: 1 / 1 / 2 / 2;
+  background-color: lightblue;
+  position: relative;
+  padding: 2em;
+}
+.timer-wrap .loader-wrap {
+  background-color: lightsalmon;
+}
